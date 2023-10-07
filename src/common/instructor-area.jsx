@@ -7,19 +7,19 @@ const instructor_info = [
   {
     id: 1,
     img: "/assets/img/bg/instructor-bg-01.jpg",
-    name: "Devon Lane",
+    name: "Alex Lane",
     title: "Instructor",
   },
   {
     id: 2,
     img: "/assets/img/bg/instructor-bg-02.jpg",
-    name: "Jane Cooper",
+    name: "Megan Cooper",
     title: "Instructor",
   },
   {
     id: 3,
     img: "/assets/img/bg/instructor-bg-03.jpg",
-    name: "Courtney Henry",
+    name: "Kris Henry",
     title: "Instructor",
   },
   {

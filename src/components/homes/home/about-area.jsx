@@ -26,8 +26,10 @@ const about_info = {
     img_2: "/assets/img/about/about-shape-01.png",
     img_3: "/assets/img/about/about-shape-02.png",
     about_title: "About Our Courses",
-    sub_title:"Explore Thousands of Creative Classes.",
-    des: <>Dramatically supply transparent deliverables beforese backward comp internal or "organic" sources. Comp  transparent leverage other.</>,
+    sub_title:"Discover a Wide Range of Creative Classes.",
+    des: <>We offer a diverse selection of courses in various fields, including art, design, photography, music, writing, and more. Our classes are designed to inspire creativity and help you develop new skills. Whether you're a beginner or an experienced learner, there's something for everyone.
+
+    Our instructors are experts in their respective fields and are passionate about teaching. They bring their knowledge and experience to the classroom, providing engaging and interactive lessons. You'll have the opportunity to learn from industry professionals and gain valuable insights into the creative process.</>,
     about_btn: "Read More"
 }
 

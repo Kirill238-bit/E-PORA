@@ -7,20 +7,20 @@ const suitable_data = [
     id: 1,
     title: (
       <>
-        Do you want to <span>Learn</span> here?
+        Do you want to <span>Learn</span> at home?
       </>
     ),
-    des: <>Dramatically supply transpa deliverables before & you.</>,
+    des: <>Learn, Grow, Succeed - From the Comfort of Home!</>,
     img: "/assets/img/bg/suit-bg-01.png",
   },
   {
     id: 2,
     title: (
       <>
-        Do you want to <span>Learn</span> here?
+        Do you want to <span>Learn</span> at class?
       </>
     ),
-    des: <>Dramatically supply transpa deliverables before & you.</>,
+    des: <>Unlock your potential, thrive in the classroom</>,
     img: "/assets/img/bg/suit-bg-02.png",
   },
 ];

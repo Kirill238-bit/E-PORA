@@ -9,8 +9,7 @@ const testimonial_data = [
     title: "Sr. UX/UI Designer",
     des: (
       <>
-        Dramatically supply transparent deliverab before & you backward comp
-        internal or "organic" sources.
+        Working with such a dedicated and motivated group of students has been an absolute pleasure. They have shown remarkable growth and determination in their journey to become skilled professionals in their field. It's always rewarding to witness their progress and see them apply the knowledge and skills they have acquired. I am proud to be a part of their learning experience.
       </>
     ),
   },
@@ -21,8 +20,7 @@ const testimonial_data = [
     title: "Software Engineer",
     des: (
       <>
-        Dramatically supply transparent deliverab before & you backward comp
-        internal or "organic" sources.
+        Instructing at this institution has been a truly fulfilling experience. The level of commitment and enthusiasm displayed by both the students and staff is truly remarkable. It's clear that they have a genuine passion for learning and improving their skills. As an instructor, it's incredibly gratifying to be able to guide and support them in their journey towards success. I am grateful for the opportunity to work with such talented individuals.
       </>
     ),
   },
@@ -33,8 +31,7 @@ const testimonial_data = [
     title: "Content Writer",
     des: (
       <>
-        Dramatically supply transparent deliverab before & you backward comp
-        internal or "organic" sources.
+        I have had the privilege of teaching at this institution for several years now and I am continually impressed by the high caliber of students that come through its doors. Their eagerness to learn, ask questions, and challenge themselves is inspiring. It is evident that the institution has fostered a strong culture of excellence and I am honored to be a part of it. The support and resources provided to instructors are top-notch, enabling us to deliver the best possible education to our students.
       </>
     ),
   },
@@ -45,8 +42,7 @@ const testimonial_data = [
     title: "Content Writer",
     des: (
       <>
-        Dramatically supply transparent deliverab before & you backward comp
-        internal or "organic" sources.
+        As an instructor, I have had the pleasure of witnessing the growth and development of students who are truly passionate about their chosen field. It's always invigorating to see their creativity and problem-solving skills come to life as they tackle real-world projects. The institution's commitment to providing a comprehensive and cutting-edge curriculum ensures that our students are well-prepared for the demands of the industry. It is truly a joy to be part of their educational journey.
       </>
     ),
   },

@@ -8,12 +8,12 @@
 	height: 80px;
 	line-height: 80px;
 	text-align: center;
-	background-color: var(--tp-common-white);
+	background-color: var(--tp-common-black);
 	@include border-radius(50%);
-	color: var(--tp-common-black);
+	color: var(--tp-common-white);
 	animation: pulse 2s infinite;
 	&:hover{
-		background-color: var(--tp-common-black);
+		background-color: var(--tp-common-white);
 		color: var(--tp-common-black);
 	}
 	& i{
@@ -37,7 +37,7 @@
 	& span{
 		display: inline-block;
 		width: 100%;
-		background: var(--tp-common-black);
+		background: var(--tp-common-white);
 		display: block;
 		position: absolute;
 		height: 3px;
@@ -63,7 +63,7 @@
 	display: inline-block;
 	font-size: 14px;
 	font-weight: 600;
-	color: var(--tp-common-white);
+	color: var(--tp-common-black);
 	background: var(--tp-theme-1);
 	line-height: 1;
 	text-align: center;
@@ -78,8 +78,8 @@
 	}
 
 	&:hover{
-		color: var(--tp-common-white);
-		background-color: var(--tp-common-black);
+		color: var(--tp-common-black);
+		background-color: var(--tp-common-white);
 	}
 	&:focus{
 		color: var(--tp-common-white);

@@ -17,7 +17,7 @@ const CourseDetailsArea = () => {
                         <img src="/assets/img/course/c-details-bg-01.jpg" alt="details-bg" />
                         <div className="c-details-ava d-md-flex align-items-center">
                            <img src="/assets/img/course/c-details-ava-01.png" alt="avata" />
-                           <span>By <a href="#">Emilia Jonas</a></span>
+                           <span>By <a href="#">Sophia Jonas</a></span>
                         </div>
                      </div>
                      <div className="course-details-content mb-45">
@@ -50,8 +50,8 @@ const CourseDetailsArea = () => {
                      </div>
                      <div className="c-details-about mb-40">
                         <h5 className="tp-c-details-title mb-20">About This Course</h5>
-                        <p>Synergistically foster 24/7 leadership rather than scalable platforms. Conveniently visualize installed base products before interactive results. Collaboratively restore corporate experiences and open-source applications. Proactively mesh cooperative growth strategies for covalent opportunities. Competently create efficient markets through best-of-breed potentialities.</p>
-                        <p>Proactively initiate corporate vortals via bricks-and-clicks relationships. Dynamically envisioneer cutting-edge paradigms via client-centered relationships. Globally repurpose backward-compatible growth strategies and fully tested e-services. Energistically promote stand-alone models whereas effective solutions. Quickly target low-risk high-yield e-markets via web-enabled networks.</p>
+                        <p>Welcome to the world of design! You will have to translate your creative ideas into unique and aesthetically pleasing projects. Your job is to create visual concepts that reflect your client's values ​​and personality.</p>
+                        <p>Whatever you are designing, be it a logo, brand book, packaging or web design, your goal should be to create a high-quality and beautifully designed product. Use your creative vision to bring uniqueness to every project.</p>
                      </div>
                      <div className="cor-details-instructor mb-40">
                         <h4 className="tp-c-details-title mb-40">Instructor</h4>
@@ -60,8 +60,8 @@ const CourseDetailsArea = () => {
                               <img src="/assets/img/course/c-details-ava-thumb-01.jpg" alt="avata-thumb" />
                            </div>
                            <div className="course-avatar-details mb-20">
-                              <h5 className="c-avata-title mb-10">Hossain Mahmud</h5>
-                              <p>Award Winning Chemical & User Interface Design Training</p>
+                              <h5 className="c-avata-title mb-10">Alexander Morgan</h5>
+                              <p>Award-Winning Training in Designing Natural Substances and Empire Interfaces</p>
                               <div className="c-details-list mb-5">
                                  <ul className="d-flex align-items-center">
                                     <li>
@@ -85,7 +85,7 @@ const CourseDetailsArea = () => {
                               </div>
                            </div>
                         </div>
-                        <p>Synergistically foster 24/7 leadership rather than scalable platforms. Conveniently visualize installed base products before interactive results. Collaboratively restore corporate experiences and open-source applications. Proactively mesh cooperative growth strategies.</p>
+                        <p>Interoperably develop leadership within 24 hours rather than scalable platforms. Conveniently visualize installed products to interactive results. Collaboratively restore enterprise experiences and open source applications. Progressively aggregate cooperative growth strategies.</p>
                      </div>
                      <div className="c-details-review pb-15">
                         <div className="c-review-title-wrapper">

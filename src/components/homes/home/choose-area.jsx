@@ -7,17 +7,19 @@ const choose_data = {
   title: "Why Choose Us",
   sub_title: (
     <>
-      Why You Choose Our
+      Why Choose E-Pora
       <br />
-      E-Pora Online learning
+      Online Learning?
     </>
   ),
-  des: 'Dramatically supply transparent deliverables before & can backward comp internal or "organic" sources.',
+  des: 'Choose E-Pora Online Learning for a comprehensive and effective learning experience. Start your educational journey with us today and unlock your full potential.',
 
   choose_list: [
-    { title: "Increasing Your Learning Skills" },
-    { title: "High Quality Video & Audio Classes" },
-    { title: "Finish Your Course, Get Certificate" },
+    { title: "Transparent Deliverables" },
+    { title: "Internal and Organic Sources" },
+    { title: "Improved Learning Skills" },
+    { title: "High-Quality Video and Audio Classes" },
+    { title: "Certificate upon Course Completion" },
   ],
 };
 
